@@ -1,0 +1,49 @@
+OTU	day	treatment	mean	adj.mean	variance	std	Kingdom	Phylum	Class	Order	Family	Genus
+Otu001	13	NAS	0.298708	2.99E-01	0.022955	0.034758	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Lactobacillaceae(100)	Lactobacillus
+Otu001	13	A	0.518513	5.19E-01	0.048627	0.05059	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Lactobacillaceae(100)	Lactobacillus
+Otu001	13	GLN	0.344376	0.344376	0.036671	0.045136	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Lactobacillaceae(100)	Lactobacillus
+Otu033	13	A	0.000022	2.20E-05	0	1.50E-05	Bacteria(100)	Proteobacteria(100)	Epsilonproteobacteria(100)	Campylobacterales(100)	Helicobacteraceae(100)	Helicobacter
+Otu033	13	NAS	0.002314	2.31E-03	1.70E-05	0.000955	Bacteria(100)	Proteobacteria(100)	Epsilonproteobacteria(100)	Campylobacterales(100)	Helicobacteraceae(100)	Helicobacter
+Otu033	13	GLN	0.001545	0.001545	8.00E-06	0.000673	Bacteria(100)	Proteobacteria(100)	Epsilonproteobacteria(100)	Campylobacterales(100)	Helicobacteraceae(100)	Helicobacter
+Otu034	13	GLN	0	1.10E-07	0	0	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu034	13	NAS	0.000011	1.10E-05	0	1.10E-05	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu034	13	A	0.000151	1.51E-04	0	0.000151	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu041	13	A	0.000065	6.50E-05	0	5.40E-05	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Actinomycetaceae(100)	Actinomyces
+Otu041	13	NAS	0.001087	1.09E-03	3.00E-06	0.000378	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Actinomycetaceae(100)	Actinomyces
+Otu041	13	GLN	0.000568	0.000568	0	0.000157	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Actinomycetaceae(100)	Actinomyces
+Otu050	13	GLN	0.000023	2.30E-05	0	1.60E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseriaceae unclass
+Otu050	13	NAS	0.000194	1.94E-04	0	8.90E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseriaceae unclass
+Otu050	13	A	4.30E-05	4.30E-05	0	4.30E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseriaceae unclass
+Otu066	13	A	0.000054	5.40E-05	0	2.60E-05	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Leptotrichiaceae(100)	Leptotrichia
+Otu066	13	NAS	0.001431	1.43E-03	1.00E-05	0.000716	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Leptotrichiaceae(100)	Leptotrichia
+Otu066	13	GLN	0.000352	0.000352	0.000352	0.000352	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Leptotrichiaceae(100)	Leptotrichia
+Otu076	13	A	0	1.10E-07	0	0	Bacteria(100)	Spirochaetes(100)	Spirochaetia(100)	Spirochaetales(100)	Spirochaetaceae(100)	Treponema
+Otu076	13	NAS	0.000129	1.29E-04	0	7.50E-05	Bacteria(100)	Spirochaetes(100)	Spirochaetia(100)	Spirochaetales(100)	Spirochaetaceae(100)	Treponema
+Otu076	13	GLN	6.80E-05	6.80E-05	0	3.70E-05	Bacteria(100)	Spirochaetes(100)	Spirochaetia(100)	Spirochaetales(100)	Spirochaetaceae(100)	Treponema
+Otu097	13	NAS	0.000011	1.10E-05	0	1.10E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Clostridiales_Incertae_Sedis_XIII(100)	Clostridiales Incertae Sedis XIII unclass
+Otu097	13	GLN	0.000159	1.59E-04	0	0.000128	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Clostridiales_Incertae_Sedis_XIII(100)	Clostridiales Incertae Sedis XIII unclass
+Otu097	13	A	4.30E-05	4.30E-05	0	4.30E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Clostridiales_Incertae_Sedis_XIII(100)	Clostridiales Incertae Sedis XIII unclass
+Otu136	13	NAS	0.000043	4.30E-05	0	4.30E-05	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Streptomycetaceae(100)	Kitasatospora
+Otu136	13	GLN	0.000125	1.25E-04	0	7.80E-05	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Streptomycetaceae(100)	Kitasatospora
+Otu136	13	A	0.001345	1.35E-03	2.00E-06	0.000286	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Streptomycetaceae(100)	Kitasatospora
+Otu140	13	A	0	1.10E-07	0	0	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Fusicatenibacter
+Otu140	13	GLN	0.000193	1.93E-04	1.00E-06	0.000181	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Fusicatenibacter
+Otu140	13	NAS	4.30E-05	4.30E-05	0	3.30E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Fusicatenibacter
+Otu176	13	GLN	0	1.10E-07	0	0	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Carnobacteriaceae(100)	Alloiococcus
+Otu176	13	NAS	0.000118	1.18E-04	0	0.000118	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Carnobacteriaceae(100)	Alloiococcus
+Otu176	13	A	1.10E-05	1.10E-05	0	1.10E-05	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Carnobacteriaceae(100)	Alloiococcus
+Otu029	33	GLN	0.000193	1.93E-04	1.00E-06	0.00017	Bacteria(100)	Bacteroidetes(100)	Bacteroidia(100)	Bacteroidales(100)	Bacteroidaceae(100)	Bacteroides
+Otu029	33	A	0	1.20E-07	0	0	Bacteria(100)	Bacteroidetes(100)	Bacteroidia(100)	Bacteroidales(100)	Bacteroidaceae(100)	Bacteroides
+Otu029	33	NAS	0.000108	0.000108	0	8.60E-05	Bacteria(100)	Bacteroidetes(100)	Bacteroidia(100)	Bacteroidales(100)	Bacteroidaceae(100)	Bacteroides
+Otu034	33	NAS	0	1.20E-07	0	0	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu034	33	A	0.000153	1.53E-04	0	0.000127	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu034	33	GLN	3.40E-05	3.40E-05	0	2.50E-05	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu062	33	GLN	0.000182	1.82E-04	1.00E-06	0.000182	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu062	33	NAS	1.20E-05	1.20E-05	0	1.20E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu062	33	A	2.60E-05	2.60E-05	0	2.60E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu125	33	GLN	0	1.20E-07	0	0	Bacteria(100)	Planctomycetes(100)	Planctomycetia(100)	Planctomycetales(100)	Planctomycetaceae(100)	Planctomycetaceae unclass
+Otu125	33	A	0.000128	1.28E-04	0	0.000128	Bacteria(100)	Planctomycetes(100)	Planctomycetia(100)	Planctomycetales(100)	Planctomycetaceae(100)	Planctomycetaceae unclass
+Otu125	33	NAS	0	1.20E-07	0	0	Bacteria(100)	Planctomycetes(100)	Planctomycetia(100)	Planctomycetales(100)	Planctomycetaceae(100)	Planctomycetaceae unclass
+Otu134	33	A	0	1.20E-07	0	0	Bacteria(100)	Elusimicrobia(100)	Elusimicrobia(100)	Elusimicrobiales(100)	Elusimicrobiaceae(100)	Elusimicrobium
+Otu134	33	NAS	0	1.20E-07	0	0	Bacteria(100)	Elusimicrobia(100)	Elusimicrobia(100)	Elusimicrobiales(100)	Elusimicrobiaceae(100)	Elusimicrobium
+Otu134	33	GLN	0.000193	1.93E-04	1.00E-06	0.000181	Bacteria(100)	Elusimicrobia(100)	Elusimicrobia(100)	Elusimicrobiales(100)	Elusimicrobiaceae(100)	Elusimicrobium

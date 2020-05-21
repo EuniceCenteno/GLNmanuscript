@@ -1,0 +1,97 @@
+OTU	season	day	mean	adj.mean	variance	std	Kingdom	Phylum	Class	Order	Family	Genus
+Otu004	Spring	13	0.017093	0.017093	0.001575	0.00737	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Peptostreptococcaceae(100)	Terrisporobacter
+Otu004	Summer	13	0.058517	0.058517	0.003992	0.012159	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Peptostreptococcaceae(100)	Terrisporobacter
+Otu010	Summer	13	0.001106	0.001106	6.00E-06	0.000479	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Lachnospiraceae unclass
+Otu010	Spring	13	0.006502	0.006502	7.20E-05	0.001579	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Lachnospiraceae unclass
+Otu011	Summer	13	0.028993	0.028993	0.002501	0.009625	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Megasphaera
+Otu011	Spring	13	0.094563	0.094563	0.008966	0.017584	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Megasphaera
+Otu014	Summer	13	0.001538	0.001538	2.60E-05	0.00099	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Veillonellaceae unclass
+Otu014	Spring	13	0.016205	0.016205	0.000495	0.004133	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Veillonellaceae unclass
+Otu023	Summer	13	0.000023	0.000023	0	1.70E-05	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Fusobacteriaceae(100)	Fusobacterium
+Otu023	Spring	13	0.000162	0.000162	0	4.80E-05	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Fusobacteriaceae(100)	Fusobacterium
+Otu032	Summer	13	0.001984	0.001984	1.40E-05	0.000712	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Acidaminococcaceae(100)	Acidaminococcus
+Otu032	Spring	13	0.008857	0.008857	0.000143	0.002222	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Acidaminococcaceae(100)	Acidaminococcus
+Otu034	Summer	13	0	0.00000008	0	0	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu034	Spring	13	0.000106	0.000106	0	9.90E-05	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pseudomonadales(100)	Moraxellaceae(100)	Moraxella
+Otu037	Summer	13	0.000189	0.000189	0	4.50E-05	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Coriobacteriales(100)	Coriobacteriaceae(100)	Coriobacteriaceae unclass
+Otu037	Spring	13	0.000924	0.000924	1.00E-06	0.000201	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Coriobacteriales(100)	Coriobacteriaceae(100)	Coriobacteriaceae unclass
+Otu042	Spring	13	0	0.00000008	0	0	Bacteria(100)	Firmicutes(100)	Erysipelotrichia(100)	Erysipelotrichales(100)	Erysipelotrichaceae(100)	Turicibacter
+Otu042	Summer	13	0.000068	0.000068	0	4.20E-05	Bacteria(100)	Firmicutes(100)	Erysipelotrichia(100)	Erysipelotrichales(100)	Erysipelotrichaceae(100)	Turicibacter
+Otu043	Summer	13	0.000015	0.000015	0	1.10E-05	Bacteria(100)	Bacteroidetes(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes unclass
+Otu043	Spring	13	0.000254	0.000254	0	8.80E-05	Bacteria(100)	Bacteroidetes(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes unclass
+Otu044	Summer	13	0.000629	0.000629	1.00E-06	0.000203	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Dialister
+Otu044	Spring	13	0.004041	0.004041	6.30E-05	0.001473	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Dialister
+Otu045	Spring	13	0.003618	0.003618	4.70E-05	0.001275	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pasteurellales(100)	Pasteurellaceae(100)	Actinobacillus
+Otu045	Summer	13	0.023979	0.023979	0.001566	0.007616	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Pasteurellales(100)	Pasteurellaceae(100)	Actinobacillus
+Otu054	Summer	13	0.000159	0.000159	0	5.70E-05	Bacteria(100)	Firmicutes(100)	Erysipelotrichia(100)	Erysipelotrichales(100)	Erysipelotrichaceae(100)	Sharpea
+Otu054	Spring	13	0.002292	0.002292	5.00E-05	0.001313	Bacteria(100)	Firmicutes(100)	Erysipelotrichia(100)	Erysipelotrichales(100)	Erysipelotrichaceae(100)	Sharpea
+Otu062	Spring	13	0.000021	0.000021	0	1.20E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu062	Summer	13	0.000159	0.000159	0	8.80E-05	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu068	Summer	13	0.000038	0.000038	0	1.90E-05	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Streptococcaceae(100)	Lactococcus
+Otu068	Spring	13	0.001015	0.001015	2.00E-06	0.000272	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Streptococcaceae(100)	Lactococcus
+Otu071	Spring	13	0.000021	0.000021	0	2.10E-05	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Leuconostocaceae(100)	Weissella
+Otu071	Summer	13	0.000189	0.000189	0	6.80E-05	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Leuconostocaceae(100)	Weissella
+Otu076	Summer	13	0.000015	0.000015	0	1.50E-05	Bacteria(100)	Spirochaetes(100)	Spirochaetia(100)	Spirochaetales(100)	Spirochaetaceae(100)	Treponema
+Otu076	Spring	13	0.000113	0.000113	0	5.20E-05	Bacteria(100)	Spirochaetes(100)	Spirochaetia(100)	Spirochaetales(100)	Spirochaetaceae(100)	Treponema
+Otu081	Summer	13	0.00003	0.00003	0	1.80E-05	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Acidaminococcaceae(100)	Succiniclasticum
+Otu081	Spring	13	0.00031	0.00031	0	6.20E-05	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Acidaminococcaceae(100)	Succiniclasticum
+Otu086	Summer	13	0.000045	0.000045	0	2.30E-05	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Allisonella
+Otu086	Spring	13	0.000374	0.000374	0	0.000126	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Allisonella
+Otu096	Summer	13	0	0.00000008	0	0	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Ruminococcaceae(100)	Subdoligranulum
+Otu096	Spring	13	0.000071	0.000071	0	3.60E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Ruminococcaceae(100)	Subdoligranulum
+Otu101	Summer	13	0.000008	0.000008	0	8.00E-06	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Eubacteriaceae(100)	Pseudoramibacter
+Otu101	Spring	13	0.000113	0.000113	0	4.90E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Eubacteriaceae(100)	Pseudoramibacter
+Otu108	Summer	13	0	0.00000008	0	0	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Ruminococcaceae(100)	Intestinimonas
+Otu108	Spring	13	0.000071	0.000071	0	3.40E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Ruminococcaceae(100)	Intestinimonas
+Otu114	Summer	13	0.000008	0.000008	0	8.00E-06	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Anaerostipes
+Otu114	Spring	13	0.000092	0.000092	0	4.00E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Anaerostipes
+Otu123	Summer	13	0.00003	0.00003	0	1.40E-05	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Aeromonadales(100)	Aeromonadaceae(100)	Aeromonas
+Otu123	Spring	13	0.000127	0.000127	0	6.40E-05	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Aeromonadales(100)	Aeromonadaceae(100)	Aeromonas
+Otu140	Summer	13	0.000008	0.000008	0	8.00E-06	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Fusicatenibacter
+Otu140	Spring	13	0.000141	0.000141	0	0.000114	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Lachnospiraceae(100)	Fusicatenibacter
+Otu176	Summer	13	0	0.00000008	0	0	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Carnobacteriaceae(100)	Alloiococcus
+Otu176	Spring	13	0.000085	0.000085	0	7.80E-05	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Carnobacteriaceae(100)	Alloiococcus
+Otu001	Spring	33	0.199934	0.199934	0.023978	0.029264	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Lactobacillaceae(100)	Lactobacillus
+Otu001	Summer	33	0.353143	0.353143	0.043043	0.04326	Bacteria(100)	Firmicutes(100)	Bacilli(100)	Lactobacillales(100)	Lactobacillaceae(100)	Lactobacillus
+Otu004	Summer	33	0.100311	0.100311	0.004676	0.014259	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Peptostreptococcaceae(100)	Terrisporobacter
+Otu004	Spring	33	0.21907	0.21907	0.023315	0.028856	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Peptostreptococcaceae(100)	Terrisporobacter
+Otu006	Spring	33	0.001015	0.001015	1.40E-05	0.000719	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Veillonella
+Otu006	Summer	33	0.019632	0.019632	0.000666	0.005381	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Veillonella
+Otu012	Summer	33	0.0004	0.0004	0	0.000117	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Enterobacteriales(100)	Enterobacteriaceae(100)	Escherichia/Shigella
+Otu012	Spring	33	0.001358	0.001358	2.00E-06	0.000266	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Enterobacteriales(100)	Enterobacteriaceae(100)	Escherichia/Shigella
+Otu017	Spring	33	0.000402	0.000402	3.00E-06	0.000306	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Coriobacteriales(100)	Coriobacteriaceae(100)	Olsenella
+Otu017	Summer	33	0.00481	0.00481	5.70E-05	0.001576	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Coriobacteriales(100)	Coriobacteriaceae(100)	Olsenella
+Otu019	Spring	33	0.00008	0.00008	0	6.60E-05	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Mitsuokella
+Otu019	Summer	33	0.002712	0.002712	2.30E-05	0.000995	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Mitsuokella
+Otu020	Spring	33	0.000687	0.000687	1.00E-05	0.000605	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Bifidobacteriales(100)	Bifidobacteriaceae(100)	Bifidobacterium
+Otu020	Summer	33	0.009523	0.009523	0.000274	0.003454	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Bifidobacteriales(100)	Bifidobacteriaceae(100)	Bifidobacterium
+Otu022	Summer	33	0.00024	0.00024	0	8.30E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Peptostreptococcaceae(100)	Peptostreptococcaceae unclass
+Otu022	Spring	33	0.001468	0.001468	1.00E-05	0.000589	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Peptostreptococcaceae(100)	Peptostreptococcaceae unclass
+Otu029	Spring	33	0.000022	0.000022	0	1.60E-05	Bacteria(100)	Bacteroidetes(100)	Bacteroidia(100)	Bacteroidales(100)	Bacteroidaceae(100)	Bacteroides
+Otu029	Summer	33	0.000151	0.000151	0	0.000133	Bacteria(100)	Bacteroidetes(100)	Bacteroidia(100)	Bacteroidales(100)	Bacteroidaceae(100)	Bacteroides
+Otu043	Summer	33	0.000018	0.000018	0	1.80E-05	Bacteria(100)	Bacteroidetes(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes unclass
+Otu043	Spring	33	0.000161	0.000161	0	0.000132	Bacteria(100)	Bacteroidetes(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes_unclassified(100)	Bacteroidetes unclass
+Otu055	Spring	33	0.000015	0.000015	0	1.50E-05	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Selenomonas
+Otu055	Summer	33	0.000142	0.000142	0	0.000125	Bacteria(100)	Firmicutes(100)	Negativicutes(100)	Selenomonadales(100)	Veillonellaceae(100)	Selenomonas
+Otu059	Summer	33	0.000044	0.000044	0	3.10E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Ruminococcaceae(100)	Ruminococcus
+Otu059	Spring	33	0.000161	0.000161	0	6.80E-05	Bacteria(100)	Firmicutes(100)	Clostridia(100)	Clostridiales(100)	Ruminococcaceae(100)	Ruminococcus
+Otu062	Spring	33	0	0.00000007	0	0	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu062	Summer	33	0.000169	0.000169	0	0.000142	Bacteria(100)	Proteobacteria(100)	Betaproteobacteria(100)	Neisseriales(100)	Neisseriaceae(100)	Neisseria
+Otu065	Spring	33	0	0.00000007	0	0	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Bifidobacteriales(100)	Bifidobacteriaceae(100)	Pseudoscardovia
+Otu065	Summer	33	0.001058	0.001058	5.00E-06	0.000459	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Bifidobacteriales(100)	Bifidobacteriaceae(100)	Pseudoscardovia
+Otu090	Summer	33	0	0.00000007	0	0	Bacteria(100)	Proteobacteria(100)	Alphaproteobacteria(100)	Caulobacterales(100)	Caulobacteraceae(100)	Brevundimonas
+Otu090	Spring	33	0.000066	0.000066	0	4.10E-05	Bacteria(100)	Proteobacteria(100)	Alphaproteobacteria(100)	Caulobacterales(100)	Caulobacteraceae(100)	Brevundimonas
+Otu100	Summer	33	0	0.00000007	0	0	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Xanthomonadales(100)	Xanthomonadaceae(100)	Stenotrophomonas
+Otu100	Spring	33	0.000073	0.000073	0	4.80E-05	Bacteria(100)	Proteobacteria(100)	Gammaproteobacteria(100)	Xanthomonadales(100)	Xanthomonadaceae(100)	Stenotrophomonas
+Otu110	Summer	33	0.000009	0.000009	0	9.00E-06	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Coriobacteriales(100)	Coriobacteriaceae(100)	Collinsella
+Otu110	Spring	33	0.000124	0.000124	0	5.90E-05	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Coriobacteriales(100)	Coriobacteriaceae(100)	Collinsella
+Otu121	Spring	33	0	0.00000007	0	0	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Leptotrichiaceae(100)	Streptobacillus
+Otu121	Summer	33	0.000062	0.000062	0	6.20E-05	Bacteria(100)	Fusobacteria(100)	Fusobacteriia(100)	Fusobacteriales(100)	Leptotrichiaceae(100)	Streptobacillus
+Otu125	Summer	33	0	0.00000007	0	0	Bacteria(100)	Planctomycetes(100)	Planctomycetia(100)	Planctomycetales(100)	Planctomycetaceae(100)	Planctomycetaceae unclass
+Otu125	Spring	33	0.000073	0.000073	0	7.30E-05	Bacteria(100)	Planctomycetes(100)	Planctomycetia(100)	Planctomycetales(100)	Planctomycetaceae(100)	Planctomycetaceae unclass
+Otu134	Spring	33	0.000007	0.000007	0	7.00E-06	Bacteria(100)	Elusimicrobia(100)	Elusimicrobia(100)	Elusimicrobiales(100)	Elusimicrobiaceae(100)	Elusimicrobium
+Otu134	Summer	33	0.000142	0.000142	0	0.000142	Bacteria(100)	Elusimicrobia(100)	Elusimicrobia(100)	Elusimicrobiales(100)	Elusimicrobiaceae(100)	Elusimicrobium
+Otu136	Spring	33	0	0.00000007	0	0	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Streptomycetaceae(100)	Kitasatospora
+Otu136	Summer	33	0.000071	0.000071	0	4.70E-05	Bacteria(100)	Actinobacteria(100)	Actinobacteria(100)	Actinomycetales(100)	Streptomycetaceae(100)	Kitasatospora
+Otu165	Spring	33	0	0.00000007	0	0	Bacteria(100)	Proteobacteria(100)	Alphaproteobacteria(100)	Rhizobiales(100)	Bradyrhizobiaceae(100)	Bradyrhizobium
+Otu165	Summer	33	0.000062	0.000062	0	6.20E-05	Bacteria(100)	Proteobacteria(100)	Alphaproteobacteria(100)	Rhizobiales(100)	Bradyrhizobiaceae(100)	Bradyrhizobium
